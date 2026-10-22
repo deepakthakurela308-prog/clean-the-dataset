@@ -1,0 +1,29 @@
+Python cache files
+
+pycache/
+*.py[cod]
+
+Virtual environment
+
+.venv/
+venv/
+env/
+
+Environment variables and secrets
+
+.env
+.streamlit/secrets.toml
+
+SQLite database
+
+cleaning_history.db
+
+IDE files
+
+.vscode/
+.idea/
+
+Operating system files
+
+.DS_Store
+Thumbs.db
